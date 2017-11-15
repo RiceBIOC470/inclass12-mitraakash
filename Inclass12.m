@@ -1,5 +1,12 @@
 % Akash Mitra
 % am132
+%GB comments
+In general the code is a bit messy with variables not being correctly stated/defined. I had to make some changes to run the code. 
+1) 50 This was the messy part. Zslices and img2 were not accurately defined variables.
+2) 100
+3) 100
+4) 100
+Overall 100
 
 %Inclass 12. 
 
