@@ -6,7 +6,8 @@ In general the code is a bit messy with variables not being correctly stated/def
 2) 100
 3) 100
 4) 100
-Overall 100
+Overall 88
+
 
 %Inclass 12. 
 
